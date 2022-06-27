@@ -68,7 +68,7 @@ const List = ({ items  })=>/*#__PURE__*/ jsx_runtime_.jsx("ul", {
 
 
 const WithStaticProps = ({ items  })=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)(Layout/* default */.Z, {
-        title: "Users List | Next.js + TypeScript Example",
+        title: "Users List | Next.js + TS Example",
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("h1", {
                 children: "Users List"
@@ -123,20 +123,20 @@ const getStaticProps = async ()=>{
 /* harmony export */ });
 /** Dummy user data. */ const sampleUserData = [
     {
-        id: 101,
-        name: "Alice"
+        id: 1000,
+        name: "Noah"
     },
     {
-        id: 102,
-        name: "Bob"
+        id: 2000,
+        name: "Norah"
     },
     {
-        id: 103,
-        name: "Caroline"
+        id: 3000,
+        name: "Adam"
     },
     {
-        id: 104,
-        name: "Dave"
+        id: 4000,
+        name: "Dina"
     }, 
 ];
 

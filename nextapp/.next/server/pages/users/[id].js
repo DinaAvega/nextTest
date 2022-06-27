@@ -129,20 +129,20 @@ const getStaticProps = async ({ params  })=>{
 /* harmony export */ });
 /** Dummy user data. */ const sampleUserData = [
     {
-        id: 101,
-        name: "Alice"
+        id: 1000,
+        name: "Noah"
     },
     {
-        id: 102,
-        name: "Bob"
+        id: 2000,
+        name: "Norah"
     },
     {
-        id: 103,
-        name: "Caroline"
+        id: 3000,
+        name: "Adam"
     },
     {
-        id: 104,
-        name: "Dave"
+        id: 4000,
+        name: "Dina"
     }, 
 ];
 
